@@ -3,6 +3,7 @@
 **Objetivo:**
 
 Este projeto visa provisionar uma instância EC2 ou outros serviços na AWS utilizando Terraform.
+Maiores detalhes: https://github.com/helberteles/formacao_aws/tree/94fa42d77629da0c4e0f5b9df5e9e0287d18f4bb/terraform/doc
 
 **Pré-requisitos:**
 
