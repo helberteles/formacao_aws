@@ -1,4 +1,4 @@
-## README.md para provisionamento de infraestrutura AWS com Terraform
+## Provisionamento de infraestrutura AWS com Terraform
 
 **Objetivo:**
 
